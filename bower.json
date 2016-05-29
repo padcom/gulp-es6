@@ -1,0 +1,19 @@
+{
+  "name": "gulp-es6 example",
+  "version": "0.0.1",
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.3",
+    "react": "^15.1.0"
+  }
+}
